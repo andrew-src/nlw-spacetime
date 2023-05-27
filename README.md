@@ -35,7 +35,7 @@ https://github.com/andrew-src/nlw-spacetime/assets/84384871/6f8e1b23-aac1-47ff-b
 - [x] [@fastify/multipart](https://github.com/fastify/fastify-multipart)
 - [x] [@fastify/static](https://github.com/fastify/fastify-static)
 
-### Front-end Web
+### Front-end (Web)
 
 - [x] [React](https://react.dev/)
 - [x] [Next.js](https://nextjs.org/)
@@ -67,7 +67,7 @@ https://github.com/andrew-src/nlw-spacetime/assets/84384871/6f8e1b23-aac1-47ff-b
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
+# 
 
 <p align="center">
   <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
